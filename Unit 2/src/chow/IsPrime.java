@@ -20,8 +20,8 @@ public class IsPrime {
 
 	/**
 	 * This method determines if the value inputed is a prime number or not
-	 * @param a
-	 * @return
+	 * @param a is the input number
+	 * @return false if not a prime number, true ifa prime number
 	 */
 
 	public static boolean isPrime(int a){
@@ -40,9 +40,9 @@ public class IsPrime {
 
 	/**
 	 * This method checks to see if the values divided will have a remainder or not
-	 * @param a
-	 * @param b
-	 * @return
+	 * @param a is the input number
+	 * @param b is the input number
+	 * @return true if no remainder, false if there is a remainder
 	 */
 
 	public static boolean isDivisible(int a, int b){

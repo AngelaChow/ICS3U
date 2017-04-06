@@ -23,8 +23,8 @@ public class LargestNumber {
 	
 	/**
 	 * This method finds the largest number
-	 * @param array
-	 * @return
+	 * @param array that stores that three given numbers
+	 * @return the largest given number
 	 */
 	public static int largestNum(int[] array){
 		int largestNumber = array[0];

@@ -19,8 +19,8 @@ public class SumOfDigits {
 	
 	/**
 	 * This method finds the sum of the digit
-	 * @param n
-	 * @return
+	 * @param x is the input number
+	 * @return the total of the digit given
 	 */
 	public static int sumOfDigits(int x){
 		int total = 0;

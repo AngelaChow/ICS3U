@@ -21,9 +21,9 @@ public class GCF {
 	
 	/**
 	 * This method does the calculations to find the greatest common factor, which then gets returned back into the main method
-	 * @param a
-	 * @param b
-	 * @return
+	 * @param a is the input number
+	 * @param b is the input number
+	 * @return the greatest common factor between the two given numbers
 	 */
 	public static int gcf(int a, int b){
 		int big= Math.max(a,b);
@@ -40,9 +40,9 @@ public class GCF {
 	
 	/**
 	 * This method checks to see if the values divided will have a remainder or not
-	 * @param a
-	 * @param b
-	 * @return
+	 * @param a is the input number
+	 * @param b is the input number
+	 * @return true if there is no remainder, and false if there is a remainder
 	 */
 	public static boolean isDivisible(int a, int b){
 		if(a%b==0){

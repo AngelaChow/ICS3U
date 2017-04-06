@@ -22,8 +22,8 @@ public class Factorial {
 	
 	/**
 	 * This method calculates to find the factorial of the number the user inputs
-	 * @param x
-	 * @return
+	 * @param x is the input number
+	 * @return the factorial of the given number
 	 */
 	public static int factorial(int x){
 		if (x<0){
