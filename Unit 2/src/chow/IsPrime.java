@@ -21,7 +21,7 @@ public class IsPrime {
 	/**
 	 * This method determines if the value inputed is a prime number or not
 	 * @param a is the input number
-	 * @return false if not a prime number, true ifa prime number
+	 * @return false if not a prime number, true if a prime number
 	 */
 
 	public static boolean isPrime(int a){
