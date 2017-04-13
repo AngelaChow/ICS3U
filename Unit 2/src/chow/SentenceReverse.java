@@ -1,7 +1,6 @@
 package chow;
 import java.util.Scanner;
 
-
 public class SentenceReverse {
 
 	public static void main(String[] args) {
