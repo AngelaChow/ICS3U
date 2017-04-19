@@ -19,7 +19,7 @@ public class Factorial {
 		int x = Integer.parseInt(s);
 		System.out.println("The factorial of your number is "+factorial(x));
 	}
-	
+
 	/**
 	 * This method calculates to find the factorial of the number the user inputs
 	 * @param x is the input number
