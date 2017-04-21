@@ -4,7 +4,7 @@ package chow;
  * PerfectIntegers.java
  * This program prints out perfect integers
  * 2017/04/21
- * @author 323990887
+ * @author Angela Chow
  */
 
 public class PerfectIntegers {
